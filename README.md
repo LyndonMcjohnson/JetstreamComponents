@@ -2,5 +2,5 @@
 
 Components for Laravel Jetstream applications styled with Tailwind.css
 - Blade
-- Inertia
+- Inertia with Vuejs
 - Livewire
